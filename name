@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+int msin(){
+int a,b;
+cin>>b>>a;
+cout<<b+a
+}
